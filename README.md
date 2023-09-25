@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/pizzawarrior/pizzawarrior/blob/1c3cd17c8f8d179301d238a4e916afd69e2db3ff/Screenshot%202023-09-24%20at%208.05.26%20PM.png" width="700"/>
+<img src="https://github.com/pizzawarrior/pizzawarrior/blob/1c3cd17c8f8d179301d238a4e916afd69e2db3ff/Screenshot%202023-09-24%20at%208.05.26%20PM.png" width="600"/>
 </p>
 
 
