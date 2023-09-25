@@ -20,14 +20,11 @@
 <img src="https://komarev.com/ghpvc/?username=pizzawarrior&style=flat-square&color=blue" alt=""/>
 <p>
 
-<div align='center'>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG16OHV2dnJxZnRlaGU0OTZ2a3VlZHpibnl1YjcycW00dzRwZmRvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h1>w e l c o m e !</h1>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="400"/>
-</div>
+<img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG16OHV2dnJxZnRlaGU0OTZ2a3VlZHpibnl1YjcycW00dzRwZmRvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align='center'>w e l c o m e !</h1>
+
+<img align="center" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="400"/>
 
 ---
 
