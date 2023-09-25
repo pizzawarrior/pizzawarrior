@@ -1,9 +1,4 @@
 
-<!---
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh1MWJ3Y2FwZGpmMjNrZzNjaHZsdGN4MGtybW1wenZkcGNiamg5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="100"/>
-</div>
----!>
 
 <p align="center">
   <img src="https://media.giphy.com/media/C299iw7dL1YF7oni9e/giphy.gif" width="100"/>
@@ -15,34 +10,33 @@
   </a>
 </p>
 
+<p align="center">
+<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG16OHV2dnJxZnRlaGU0OTZ2a3VlZHpibnl1YjcycW00dzRwZmRvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</p>
+
+<h1 align="center">w e l c o m e !</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pizzawarrior&style=flat-square&color=blue" alt=""/>
-<p>
-
-
-<img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG16OHV2dnJxZnRlaGU0OTZ2a3VlZHpibnl1YjcycW00dzRwZmRvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h1 align='center'>w e l c o m e !</h1>
-
-<img align="center" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="400"/>
+<img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="400"/>
+</p>
 
 ---
 
 ### :man_technologist: &nbsp;About Me :
-- :zap: I am a Full Stack Developer from the San Francisco Bay Area
+- :zap: I'm a Full Stack Developer from the San Francisco Bay Area
 
-- :zap: Currently enrolled in Hack Reactor's 19 week Full Stack Immersive, and graduating in December 2023.
+- :zap: Currently enrolled in Hack Reactor's 19 week Full Stack Immersive, and graduating in December 2023
 
-- :zap: I have a background in Data Analysis and Project Management.
+- :zap: I have a background in Data Analysis and Project Management
 
-- :zap: In my free time, I enjoy surfing and working on Fine Art.
+- :zap: In my free time, I enjoy surfing and working on Fine Art
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-norstad/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-norstad/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -54,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</p>
 
 ---
 
@@ -63,3 +57,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzawarrior&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pizzawarrior&style=flat-square&color=blue" alt=""/>
+<p>
