@@ -1,20 +1,6 @@
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/C299iw7dL1YF7oni9e/giphy.gif" width="100"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ian-norstad/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
-<p align="center">
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG16OHV2dnJxZnRlaGU0OTZ2a3VlZHpibnl1YjcycW00dzRwZmRvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
-
-<h1 align="center">w e l c o m e !</h1>
+<h1 align="center">W e l c o m e !</h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="400"/>
@@ -29,9 +15,19 @@
 
 - :zap: I have a background in Data Analysis and Project Management
 
-- :zap: In my free time, I enjoy surfing and working on Fine Art
+- :zap: In my free time, I enjoy surfing 🏄‍♂️, cycling 🚴, and working on Fine Art 🎨
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-norstad/)
+- :mailbox: How to reach me:
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-norstad/)
+
+---
+
+### More Projects Can Be Found Here:
+<p>
+  <a href="https://gitlab.com/i.norstad">
+    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+  </a>
+</p>
 
 ---
 
