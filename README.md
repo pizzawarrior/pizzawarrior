@@ -51,7 +51,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pizzawarrior&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzawarrior&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzawarrior&layout=compact&theme=vision-friendly-dark&hide=R)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pizzawarrior&style=flat-square&color=blue" alt=""/>
