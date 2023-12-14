@@ -11,13 +11,13 @@
 
 ---
 
-### :man_technologist: &nbsp;About Me :
+### 👨‍💻 About Me:
 - ✔️ I'm a Full Stack Developer from the San Francisco Bay Area
 - ✔️ I specialize in taking complex problems and turning them into beautiful, functional products
 - ✔️ Currently enrolled in Hack Reactor's 19 week Full Stack Immersive, and graduating in December 2023
 - ✔️ I have a background in Data Analysis and Project Management
 - ✔️ In my free time, I enjoy surfing 🏄‍♂️, cycling 🚴, and working on Fine Art 🎨
-- :mailbox: How to reach me:
+- 📬 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-norstad/)
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pizzawarrior&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzawarrior&layout=compact&theme=vision-friendly-dark&hide=R)](https://github.com/anuraghazra/github-readme-stats)
