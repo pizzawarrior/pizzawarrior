@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me:
 - ✔️ I'm a Full Stack Developer from the San Francisco Bay Area
 - ✔️ I specialize in taking complex problems and turning them into beautiful, functional products
-- ✔️ Currently enrolled in Hack Reactor's 19 week Full Stack Immersive, and graduating in December 2023
+- ✔️ Graduated from Hack Reactor's 19 week Full Stack Immersive in December 2023
 - ✔️ I have a background in Data Analysis and Project Management
 - ✔️ In my free time, I enjoy surfing 🏄‍♂️, cycling 🚴, and working on Fine Art 🎨
 - 📬 How to reach me:
