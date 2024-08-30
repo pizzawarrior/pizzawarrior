@@ -15,7 +15,7 @@
 - ✔️ I'm a Full Stack Developer from the San Francisco Bay Area
 - ✔️ I specialize in taking complex problems and turning them into beautiful, functional products
 - ✔️ Graduated from Hack Reactor's 19 week Full Stack Immersive in December 2023
-- ✔️ I have a background in Data Analysis and Project Management
+- ✔️ I have a background in analytics and Project Management
 - ✔️ In my free time, I enjoy surfing 🏄‍♂️, cycling 🚴, and working on Fine Art 🎨
 - 📬 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-norstad/)
